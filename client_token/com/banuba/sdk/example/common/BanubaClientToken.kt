@@ -4,4 +4,4 @@ package com.banuba.sdk.example.common
  * Client token for Banuba SDK. Consider obfuscation in release app.
  */
 
-internal const val BANUBA_CLIENT_TOKEN: String = <Place your token here>
+internal const val BANUBA_CLIENT_TOKEN: String = <Qk5CIDsY+LOeXZ/nEC70hjNV/VuvS91alY4H0PSE62RDZwHCRgKOZfDN1ntrj3zsC4C8zdOiyhX1vJDtz0fJrnYaZlaCCUmrPXNWQbxtElEWc30QPALBV+G4Z+KQp8UVLEtEH0GbFAs3XEFzP0UbxW8i/RTpmfWX3CmoY4UOk4HoWWT6ET+LbhZaBq8lT/fProKh2s7sdYcZAdBFxwh/wWFcYNdK61ixWv0IQj8kgkxGnPwZ36fDYh/PppQcqOO5sz8LF8hKsfjxFbkmYQcUWHRjQP7kQwxZGWGIj64fuSBZmoL1BzgfTUM8TMvQqRn0wlYDQaz1WJ8RdCPeM5cvBbiNw7G5LnKvQXLuW9QIPp3VMODjIfmjrA/4MPp08yZJbJ1uIVMGarill3IKVexk0hAIQynplxjgEQOuiTH2e2kIqp34v07YJ9A0Pe+3FIl0jLCR3uH+HCQezObRY//03mRl+OO6wi+3G9cP4xFeLeIL7m3+8/mUiyFHnG2kZR3Gf37kzwVJnpkXKjbHw0SgTSrISdgr5Of+wJJQkTHCiYnDGPLf/B/ioB5NquhCU45TVp+EF/bW7zivnOF7+cku8+fR7f7P1o9OMqq3g05YxVaWjfbFM1h2I9Gt7HStOd3ywaA7/yC7xoTE4j+y9IFEuQ==>
